@@ -1,0 +1,3 @@
+[WARNING] voltage low
+[ERROR] sensor init failed
+[ERROR] timeout

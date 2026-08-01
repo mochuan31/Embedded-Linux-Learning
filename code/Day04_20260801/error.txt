@@ -1,0 +1,5 @@
+[ERROR] sensor init failed
+[ERROR] timeout
+[INFO] boot success
+[INFO] network connected
+[INFO] service started
